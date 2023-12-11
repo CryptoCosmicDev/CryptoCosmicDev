@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Abhi!
 
-![Profile Banner]()
+![Profile Banner](https://github.com/CryptoCosmicDev/CryptoCosmicDev/blob/main/Create_a_captivating_GitHub_profile_banner_for_.jpg)
 
 I'm a passionate Developer and Investor with a keen interest in:
 
